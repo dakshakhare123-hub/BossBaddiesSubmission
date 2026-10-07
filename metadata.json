@@ -1,0 +1,6 @@
+{
+  "name": "BIG BOSS COMMAND CENTER: Tech House Pixel Edition",
+  "description": "Real-time 16-bit pixel arcade control dashboard for Big Boss to run a reality-show house of tech contestants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
